@@ -1,0 +1,15 @@
+/Users/tomgeller/Desktop/CSharpWork/第四次作业/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp
+/Users/tomgeller/Desktop/CSharpWork/第四次作业/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp.deps.json
+/Users/tomgeller/Desktop/CSharpWork/第四次作业/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp.runtimeconfig.json
+/Users/tomgeller/Desktop/CSharpWork/第四次作业/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp.dll
+/Users/tomgeller/Desktop/CSharpWork/第四次作业/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp.pdb
+/Users/tomgeller/Desktop/CSharpWork/第四次作业/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomgeller/Desktop/CSharpWork/第四次作业/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.AssemblyInfoInputs.cache
+/Users/tomgeller/Desktop/CSharpWork/第四次作业/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.AssemblyInfo.cs
+/Users/tomgeller/Desktop/CSharpWork/第四次作业/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/Users/tomgeller/Desktop/CSharpWork/第四次作业/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.sourcelink.json
+/Users/tomgeller/Desktop/CSharpWork/第四次作业/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.dll
+/Users/tomgeller/Desktop/CSharpWork/第四次作业/MyConsoleApp/obj/Debug/net9.0/refint/MyConsoleApp.dll
+/Users/tomgeller/Desktop/CSharpWork/第四次作业/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.pdb
+/Users/tomgeller/Desktop/CSharpWork/第四次作业/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.genruntimeconfig.cache
+/Users/tomgeller/Desktop/CSharpWork/第四次作业/MyConsoleApp/obj/Debug/net9.0/ref/MyConsoleApp.dll
