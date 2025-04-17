@@ -1,0 +1,5 @@
+/Users/tomgeller/Desktop/CSharpWork/第六次作业/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomgeller/Desktop/CSharpWork/第六次作业/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.AssemblyInfoInputs.cache
+/Users/tomgeller/Desktop/CSharpWork/第六次作业/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.AssemblyInfo.cs
+/Users/tomgeller/Desktop/CSharpWork/第六次作业/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/Users/tomgeller/Desktop/CSharpWork/第六次作业/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.sourcelink.json
